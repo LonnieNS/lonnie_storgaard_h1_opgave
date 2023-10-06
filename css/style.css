@@ -1,0 +1,385 @@
+/* NAVIGATION */
+
+.main_nav {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    align-items:center;
+    top: 0;
+    background-color: var(--primary-background);
+    width: 100%;
+}
+
+.nav_brand {
+    color: var(--accent-text);
+    font-size: 1.8rem;
+    letter-spacing: 4px;
+    line-height: 0.8;
+}
+
+.nav_btns {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.8rem;
+    width: 35%;
+}
+
+main {
+    margin-top: 12vh;
+}
+
+/* BLURB */
+
+.text_top {
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.text_top p {
+    font-size: 1rem;
+    
+}
+
+/* FILTER */
+
+.filter_heading {
+    text-align: center;
+}
+
+.filter_p {
+    font-size: clamp(0.9rem, 0.407rem + 1.315vw, 1.5rem);
+    font-weight: 700;
+}
+
+.filter_btn_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1vw;
+    padding: 2vw;
+}
+
+.red {
+    background-color:var(--secondary-btn-col);
+}
+
+/* PROFILE LIST */
+
+.profiles_outer_container {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5vw;
+    justify-content: center;
+    padding: 10px;
+}
+
+.profiles_tmpl_container {
+    width: 45%;
+    border-radius: 10px;
+    background-color: var(--secondary-background);
+}
+
+.profiles_tmpl_content {
+    padding: 10px;
+}
+
+.profiles_tmpl_image img {
+    border-radius: 10px 10px 0 0;
+    aspect-ratio: 1;
+}
+
+.profiles_tmpl_info {
+    margin-top: 10px;
+}
+
+.link_container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+/* FAV LIST */ 
+
+.fav_list_container {
+    display: none;
+    background-color: var(--primary-background);
+    border-radius: 10px;
+    width: 100%;
+    min-height: 90vh;
+    position: fixed;
+    top: 10vh;
+    padding: 20px;
+}
+
+.fav_tmpl_container {
+    display: flex;
+    background-color: var(--secondary-background);
+    border-radius: 10px;
+    padding: 10px;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.fav_tmpl_image {
+    width: 50%;
+}
+
+.fav_tmpl_image img {
+    border-radius: 10px;
+    aspect-ratio: 1;
+    object-fit: cover;
+    width: 100%;
+}
+
+.fav_tmpl_content {
+    width: 100%;
+    padding: 5px;
+}
+
+.favourite-delete {
+    margin-top: 25px;
+    text-align: right;
+}
+
+/* NOTIFICATIONS */
+
+.notifications_container {
+    display: none;
+    background-color: var(--secondary-background);
+    border-radius: 10px;
+    width: 90%;
+    min-height: 90vh;
+    position: fixed;
+    top: 10vh;
+    left: 5vw;
+    padding: 10px;
+}
+
+.notification_item {
+    display: flex;
+    background-color: #9499B7;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top:10px;
+}
+
+.notification_image {
+    width: 50px;
+}
+
+.notification_img {
+    aspect-ratio: 1;
+    border-radius: 15px;
+}
+
+.notification_text {
+    padding: 10px;
+} 
+
+.notification_p {
+    font-size: 1rem;
+}
+
+.notification_link {
+    font-size: 0.9rem;
+}
+
+.notif_heart {
+    color: var(--accent-text);
+}
+
+/* MESSAGES */
+
+.messages_container {
+    display: none;
+    background-color: var(--secondary-background);
+    border-radius: 10px;
+    width: 90%;
+    min-height: 90vh;
+    position: fixed;
+    top: 10vh;
+    left: 5vw;
+    padding: 10px;
+}
+
+.message_item {
+    display: flex;
+    margin:10px;
+}
+
+.message_image {
+    width: 70px;
+}
+
+.message_img {
+    aspect-ratio:1;
+    border-radius: 10px;
+}
+
+.message_content {
+    background-color: #9499B7;
+    border-radius: 15px;
+    height: fit-content;
+    padding: 8px;
+    width: 90%;
+    margin-left: -25px;
+    margin-top: 30px;
+}
+
+.message_p {
+    color: var(--secondary-text);
+    font-size: 1rem;
+}
+
+/* PROFILE PAGE */ 
+
+.single_profile_tmpl_image_container {
+    height: 100vh;
+}
+
+.single_profile_tmpl_image_container img {
+    object-fit:cover;
+    height: 100%;
+}
+
+.single_profile_tmpl_name {
+    margin-top: -20vh;
+    font-size: 2.5rem;
+    padding: 10px;
+}
+
+.single_profile_tmpl_content {
+    padding: 5vw;
+    background-color: var(--secondary-background);
+}
+
+.single_profile_tmpl_info{
+    font-size: 1.2rem;
+}
+
+.single_profile_more_images {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3vh;
+}
+
+.img_container {
+    width: 100%;
+    padding: 5px;
+}
+
+.img_container img{
+    aspect-ratio: 1;
+    border-radius: 10px;
+}
+
+.back_container {
+    text-align: center;
+    padding: 20px;
+}
+
+.back {
+    font-size: 1.5rem;
+}
+
+
+.show {
+    display: block;
+}
+
+.active_likes_btn {
+    color: #942f2f;
+}
+
+.active_btn {
+    color: #373957;
+}
+
+
+/* DESKTOP */ 
+
+@media screen and (min-width:800px){
+
+    /* ADUSTMENTS */ 
+
+    .profiles_tmpl_container {
+        width: 20%;
+    }
+
+    .single_profile_container {
+        display: flex;
+    }
+
+    .profile_left {
+        width: 35%;
+    }
+
+    .profile_right {
+        width: 65%;
+    }
+
+    .single_profile_more_images {
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .img_container {
+        padding: 15px;
+    }
+
+    .single_profile_tmpl_content {
+        padding: 8vw;
+        background-color: var(--primary-background);
+    }
+
+    .nav_btns {
+        display: flex;
+        justify-content: space-around;
+        font-size: 1.8rem;
+        width: 10%;
+    }
+
+    .fav_list_container {
+        background-color: var(--secondary-background);
+        width: 35%;
+        top: 5vh;
+        left: 63vw;
+        min-height: fit-content;
+        padding: 10px;
+    }
+
+    .fav_tmpl_container {
+        padding: 5px;
+        margin-bottom: 5px;
+    }
+
+    .fav_tmpl_image {
+        width: 20%;
+    }
+
+    .favourite-delete {
+        margin-top: 5px;
+    }
+
+    .notifications_container {
+        width: 25%;
+        top: 5vh;
+        left: 73vw;
+        min-height: fit-content;
+    }
+
+    .messages_container {
+        width: 25%;
+        top: 5vh;
+        left: 73vw;
+        min-height: fit-content;
+    }
+
+
+}

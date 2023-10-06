@@ -1,0 +1,80 @@
+[
+    {
+      "Id": 0,
+      "Name": "Ruben Tusindfryd Henriksen",
+      "Description": "Hej! Jeg er en 72-årig yogaentusiast, der tror på at kommunikere med planter og søger sjæleforbindelser under fuldmånen. Lad os udforske det mystiske sammen!",
+      "Image": "./assets/images/ruben_02.png",
+      "Favdescription" : "72 år, Yoga-entusiast, livsglad.",
+      "Detailed" :"Hej derude! Jeg er en 72-årig livsglad sjæl, der har været på en utrolig rejse gennem livet, og nu søger jeg en ligesindet partner til at udforske det mystiske og skønne, som verden har at tilbyde. <br>Min passion for yoga går dybt, og jeg har brugt årtier på at fordybe mig i denne gamle kunst. <br>Jeg elsker at praktisere yoga under åben himmel, især under fuldmånens skær, hvor jeg føler, at min sjæl er mest i harmoni med universet. <br>Men min kærlighed til naturen og mystikken stopper ikke der. Jeg har en særlig forbindelse til planter og tror på, at de har deres eget sprog, som kun de, der lytter med hjertet, kan forstå. <br> <br> Jeg er på udkig efter en partner, der deler min tro på sjæleforbindelser og er villig til at udforske de dybe lag af vores egen bevidsthed sammen med mig. En person, der værdsætter skønheden i naturen og kan se magien i de små øjeblikke i livet. ",
+      "ImageTwo": "./assets/images/ruben_01.jpeg",
+      "ImageThree": "./assets/images/ruben_03.jpg",
+      "ImageFour": "./assets/images/ruben_04.jpg",
+      "Filter": "alle yogaentusiast naturliv sjælefred drømmetyder"
+    },
+
+    {
+      "Id": 1,
+      "Name": "Edna Hammer",
+      "Description": "Goddag, darling! Jeg er et 78-årig modeikon med et hus fyldt med designerkjoler og de smukkeste katte. Jeg søger en æstetisk bevidst sjæl, der kan matche mit niveau af elegance og forstår kunsten i kattefølgeskab.",
+      "Image": "./assets/images/edna_01.jpeg",
+      "Favdescription" : "78 år, Modeikon, Katteven.",
+      "Detailed" :"Hej, kære! Jeg er en 78-årig modeentusiast med et hus fyldt med designerkjoler og en flok af de mest forførende katte, du nogensinde har mødt. Min fascination for mode går dybt, og min garderobe er en skatkiste fyldt med couture-kreationer fra tidens store mestre. <br> Hver dag er en ny mulighed for at skabe enestående stiltabeller, og jeg nyder at udforske mode som kunstform og udtryksmiddel. Det at sammensætte farver, teksturer og mønstre for at skabe det perfekte look er min passion, og det afspejler min forståelse for skønhed og æstetik. <br> Mine katte er ikke blot kæledyr; de er mine museer og ledsagere i denne æstetiske verden, hvor hver gestus og bevægelse er som poesi. Jeg tror, at kattefølgeskab er en kunst i sig selv, og jeg søger en partner, der kan værdsætte den subtile skønhed og mystik, som katte bringer ind i vores liv. <br> <br>Hvis du er en æstetisk bevidst sjæl, der værdsætter skønhed i alle dens former og kan forstå kunsten i kattefølgeskab, så lad os mødes og dele vores passioner. Sammen kan vi skabe et æstetisk eventyr fyldt med stil og elegance, hvor mode og katte er vores museer.",
+      "ImageTwo": "./assets/images/edna_02.jpg",
+      "ImageThree": "./assets/images/edna_03.jpg",
+      "ImageFour": "./assets/images/edna_04.jpg",
+      "Filter": "alle katteperson dyreven modeentusiast livsnyder"
+    },
+
+    {
+      "Id": 2,
+      "Name": "Uffe Svendsen",
+      "Description": "Hej! Jeg er en 78-årig drømmefanger, der kan fange og tolke dine drømme. Lad os sammen udforske det underbevidste rige.",
+      "Image": "./assets/images/uffe_01.jpeg",
+      "Favdescription" : "78 år, Drømmetyder.",
+      "Detailed" :"Jeg er en 78-årig drømmefanger, der har brugt hele livet på at udforske mysterierne i det underbevidste rige. For mig er drømme som portalen til vores dybeste tanker, følelser og ønsker. At fange og tolke drømme er min lidenskab og en kunstform, der har beriget mit liv på utallige måder. <br> Jeg tror på, at drømme kan afsløre vores inderste sjæl og give os indsigt i de spørgsmål, vi måtte have om os selv og vores livsrejse. At kunne dele og udforske drømme sammen er en dyb og meningsfuld måde at opbygge en forbindelse på, da det åbner op for samtaler om vores mest skjulte ønsker og frygt. <br> <br> Hvis du også er nysgerrig efter at udforske det underbevidste rige, dele drømme og skabe en forbindelse, der går ud over det overfladiske, så lad os begive os ud på denne fascinerende rejse sammen. Jeg ser frem til at dele drømme og virkelighed med en ligesindet partner.",
+      "ImageTwo": "./assets/images/uffe_02.jpeg",
+      "ImageThree": "./assets/images/uffe_03.jpeg",
+      "ImageFour": "./assets/images/uffe_04.jpg",
+      "Filter": "alle drømmetyder livsnyder sjælefred dyreven"
+    },
+
+    {
+      "Id": 3,
+      "Name": "Asta Laursen",
+      "Description": "Hej! Jeg er en 69-årig Tupperware-ekspert, der elsker at omdanne hverdagens genstande til kunstværker. Vil du være med til at skabe magi i køkkenet og ud over?",
+      "Image": "./assets/images/asta_01.jpg",
+      "Favdescription" : "69 år, Tupperware Forhandler, Kunstner.",
+      "Detailed" :"Jeg er en 69-årig, lidt usædvanlig Tupperware-entusiast, der ser skønheden i at forvandle almindelige hverdagsgenstande til små mesterværker. Min passion for Tupperware går langt ud over det praktiske; jeg betragter det som en form for kunstnerisk udtryk. <br> Som en Tupperware-forhandler er jeg også en mester i at skabe uforglemmelige sammenkomster og madoplevelser. Jeg elsker at vært for skøre Tupperware-fester, hvor vi tænker ud af boksen, eksperimenterer med opskrifter og finder nye måder at bruge vores elskede beholdere på. <br> <br> Min alder har kun tilføjet dybde til min livsfilosofi, og jeg har lært at værdsætte livets skæve sider. Hvis du er nysgerrig på at udforske verden gennem en mærkelig linse og tror på, at sjov og fantasi er nøglen til et liv fuld af glæde, så lad os skabe noget unikt og farverigt sammen. Jeg ser frem til at finde en partner, der kan omfavne det ukonventionelle og lave mad og sjov sammen med mig",
+      "ImageTwo": "./assets/images/asta_02.jpg",
+      "ImageThree": "./assets/images/asta_03.jpg",
+      "ImageFour": "./assets/images/asta_04.jpg",
+      "Filter": "alle tupperwareforhandler kunstner dyreven"
+    },
+
+    {
+      "Id": 4,
+      "Name": "Alice Havtorn",
+      "Description": "Hej! Jeg er en 71-årig eventyrlysten sjæl, der trives i naturen og elsker at udfordre normerne ved at samle potentielt spiselige planter. Lad os sammen udforske skovens spiselige skatte og smage på livets overraskelser.",
+      "Image": "./assets/images/alice_01.jpg",
+      "Favdescription" : "71 år, plante-entusiast, naturmenneske.",
+      "Detailed" :"Jeg er en 71-årig kvinde, der har fundet sin lidenskab i naturen og udforsker den utraditionelle side af madverdenen. At samle spiselige planter i det fri og udfordre konventionelle opfattelser af, hvad der er spiseligt, har altid været en kilde til glæde og undren for mig.<br> Naturens spiselige skatte gemmer sig ofte i de mest uventede hjørner, og jeg nyder at lære om og eksperimentere med de forskellige planter og urter, der findes i vores omgivelser. For mig er det at finde og smage på disse skatte en måde at forbinde med jorden og føle mig tættere på naturen. <br> Min nysgerrighed og eventyrlyst har ikke ændret sig med alderen, og jeg tror, at livet stadig er fyldt med utallige opdagelser og overraskelser, selv i mine syvende årtier. Jeg søger en partner, der kan dele min passion for natur, mad og udforskning. Sammen kan vi gå på opdagelse i naturens spiselige skatte og dele en verden af smagsoplevelser og eventyr.",
+      "ImageTwo": "./assets/images/alice_02.jpg",
+      "ImageThree": "./assets/images/alice_03.jpg",
+      "ImageFour": "./assets/images/alice_04.jpg",
+      "Filter": "alle naturliv livsnyder sjælefred"
+    },
+
+    {
+      "Id": 5,
+      "Name": "Helge Thorsen",
+      "Description": "Hej. Jeg er en 74-årig fyr, der helst ikke ville have en datingprofil, men her er jeg alligevel. Jeg er skeptisk, lidt sur og har aldrig rigtig troet på dette online-datinghalløj. Men hvem ved, måske finder jeg noget overraskende her.",
+      "Image": "./assets/images/helge_01.jpg",
+      "Favdescription" : "74 år, kunstner.",
+      "Detailed" :"Hej derude. Jeg er en 74-årig mand, der virkelig ikke var sikker på, om jeg nogensinde skulle lave en datingprofil. Jeg har altid haft mine tvivl om online datingverdenen, men her er jeg nu, klar til at se, hvad der sker. <br> Måske er det min naturlige skeptiske natur, eller måske er det min hang til at fastholde det velkendte, der har holdt mig tilbage. Jeg har aldrig været den mest åbne person, og det kan tage mig lidt tid at åbne op for nye mennesker. <br> <br> Jeg er også en kunstner, og min kærlighed til kunst har formet mit liv på mange måder. Jeg har malet, skulptureret og udtrykt mig gennem forskellige medier i mange år. Min kunst er en måde at dykke ned i mine egne tanker og følelser, og den har hjulpet mig med at forstå verden omkring mig. <br> Selvom jeg ikke var begejstret for at oprette denne profil, tror jeg på, at der altid er plads til at lære og vokse, uanset alderen. Måske finder jeg en person her, der kan åbne mig op for nye oplevelser og måder at se verden på, som jeg aldrig havde forestillet mig.",
+      "ImageTwo": "./assets/images/helge_02.jpg",
+      "ImageThree": "./assets/images/helge_03.jpg",
+      "ImageFour": "./assets/images/helge_04.jpg",
+      "Filter": "alle kunstner"
+    }
+
+]

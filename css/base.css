@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* VARIABLES */
+
+:root {
+
+    --primary-font:'Roboto', sans-serif;
+    
+    --primary-text:#EEEDF4;
+    --secondary-text:#26233D;
+    --accent-text: #CB4646;
+
+    --primary-link: ;
+    --secondary-link: ;
+    --accent-link: ;
+
+    --primary-background:#26233D;
+    --secondary-background: #404162;
+    --accent-background:;
+
+    --border-col:;
+    --active-col: ;
+
+    --primary-btn-col: #404162;
+    --secondary-btn-col: #CB4646;
+}
+
+
+/* BACKGROUND */
+
+html {
+    background-color: var(--primary-background);
+}
+
+/* TEXT */ 
+
+body {
+    font-family: var(--primary-font);
+    color: var(--primary-text);
+}
+
+p{
+    font-size: clamp(0.8rem, 0.636rem + 0.438vw, 1rem);
+}
+
+h2 {
+    font-size: clamp(1.2rem, 1.036rem + 0.438vw, 1.4rem);
+}
+
+a{
+    color: var(--primary-text);
+    font-family: var(--primary-font);
+    text-decoration: none;
+    font-weight: 700;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--accent-text);
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+/* IMAGES */
+
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+/* BUTTONS */
+
+.nav_notif_btn {
+
+    color: var(--primary-btn-col);
+    
+}
+
+.nav_msg_btn {
+
+    color: var(--primary-btn-col);
+}
+
+.nav_likes_btn {
+    color: var(--secondary-btn-col);
+}
+
+.filter_btn {
+    border-style: none;
+    color: var(--primary-text);
+    background-color: var(--primary-btn-col);
+    border-radius: 50px;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.favourite {
+    color: var(--secondary-btn-col);
+    font-size: 2rem;
+}
+
+.favourite-delete {
+    font-size: 2rem;
+    color: var(--secondary-text);
+}
+
+.link_btn{
+    cursor: pointer;
+}
